@@ -14,7 +14,7 @@
   <img align="center" alt="alice-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="alice-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="alice-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="alice-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/979550305635156021/979550356625293382/download20220504215439.png">
+  <img align="right" alt="alice-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/951968056752611398/979549548085129276">
 </div>
   
   ##
